@@ -30,11 +30,11 @@
   
   
   <distributionManagement>
-   <!-- <repository>
+   <repository>
         <id>admin</id>
         <name>unique-PC-releases</name>
         <url>http://localhost:8082/artifactory/jenre</url>
-    </repository> -->
+    </repository>
     <snapshotRepository>
         <id>admin</id>
         <name>unique-PC-snapshots</name>
