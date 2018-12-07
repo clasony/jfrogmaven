@@ -66,12 +66,12 @@
   
   <distributionManagement>
     <repository>
-        <id>admin</id>
+        <id>central</id>
         <name>unique-PC-releases</name>
         <url>http://localhost:8082/artifactory/jenre</url>
-    </repository> 
+    </repository>
     <snapshotRepository>
-        <id>admin</id>
+        <id>snapshots</id>
         <name>unique-PC-snapshots</name>
         <url>http://localhost:8082/artifactory/jenre</url>
     </snapshotRepository>
